@@ -125,7 +125,7 @@ const Formulario = ({pacientes, setPacientes, paciente, setPaciente}) => {
                 </div>
                 <div className="mb-5">
                     <label htmlFor="sintomas" className="block text-gray-700 uppercase font-bold"
-                    >Email</label>
+                    >Síntomas</label>
                     <textarea
                     id="sintomas"
                     className="border-2 w-full p-2 mt-2 placeholder-grey-400 rounded-md"
